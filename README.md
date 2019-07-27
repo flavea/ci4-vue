@@ -27,7 +27,7 @@ php spark migrate:latest -g default && sudo php spark db:seeder BookSeeder
 
 5. Install `node_modules` on `ci4-vue/client`
 ```
-# ci4-vueclient
+# ci4-vue/client
 
 npm install
 ```
