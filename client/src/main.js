@@ -8,9 +8,8 @@ import axios from 'axios'
 Vue.config.productionTip = false
 
 const base = axios.create({
-  baseURL: 'http://ilma/hlr2/api/'
+  baseURL: 'http://ilma/ci4-vue/public/api/'
 })
-
 
 Vue.prototype.$api = base
 

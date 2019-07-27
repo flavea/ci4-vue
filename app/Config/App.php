@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://ilma/hlr2/';
+	public $baseURL = 'http://ilma/ci4-vue/';
 
 	/*
 	|--------------------------------------------------------------------------
